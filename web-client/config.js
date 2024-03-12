@@ -1,6 +1,6 @@
 // WebSocket server URL
-const API_URL_DEVELOPMENT = "wss://pp-backend-jl5c.onrender.com:8000";
-const API_URL_PRODUCTION = "wss://pp-backend-jl5c.onrender.com:8000";
+const API_URL_DEVELOPMENT = "wss://pp-backend-jl5c.onrender.com";
+const API_URL_PRODUCTION = "wss://pp-backend-jl5c.onrender.com";
 
 // UI settings
 const LS_MODE_TOGGLE_STATE = "LS_MODE_TOGGLE_STATE";
